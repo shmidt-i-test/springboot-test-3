@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-component-springboot
+  description: Description
+spec:
+  type: website
+  lifecycle: experimental
+  owner: me
